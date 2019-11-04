@@ -1,0 +1,14 @@
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\bin\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.deps.json
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\bin\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.runtimeconfig.json
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\bin\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.runtimeconfig.dev.json
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\bin\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.dll
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\obj\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.csprojAssemblyReference.cache
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\obj\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\obj\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.RazorAssemblyInfo.cache
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\obj\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.RazorAssemblyInfo.cs
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\obj\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.AssemblyInfoInputs.cache
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\obj\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.AssemblyInfo.cs
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\obj\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\bin\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.pdb
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\obj\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.dll
+C:\Users\46864796817\Desktop\Senai.M_Roman.WebApi\Senai.M_Roman.WebApi\obj\Debug\netcoreapp2.1\Senai.M_Roman.WebApi.pdb
