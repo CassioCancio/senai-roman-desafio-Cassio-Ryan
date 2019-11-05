@@ -12288,11 +12288,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46864796817\\Desktop\\senai-roman-desafio-Cassio-Ryan-master\\senai-roman-desafio-Cassio-Ryan-master\\senai-roman-desafio-Cassio-Ryan\\Senai.M_Roman.WebApi\\Senai.M_Roman.WebApi\\Senai.M_Roman.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\46864796817\\Desktop\\senai-roman-desafio-Cassio-Ryan\\Senai.M_Roman.WebApi\\Senai.M_Roman.WebApi\\Senai.M_Roman.WebApi.csproj",
       "projectName": "Senai.M_Roman.WebApi",
-      "projectPath": "C:\\Users\\46864796817\\Desktop\\senai-roman-desafio-Cassio-Ryan-master\\senai-roman-desafio-Cassio-Ryan-master\\senai-roman-desafio-Cassio-Ryan\\Senai.M_Roman.WebApi\\Senai.M_Roman.WebApi\\Senai.M_Roman.WebApi.csproj",
+      "projectPath": "C:\\Users\\46864796817\\Desktop\\senai-roman-desafio-Cassio-Ryan\\Senai.M_Roman.WebApi\\Senai.M_Roman.WebApi\\Senai.M_Roman.WebApi.csproj",
       "packagesPath": "C:\\Users\\46864796817\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46864796817\\Desktop\\senai-roman-desafio-Cassio-Ryan-master\\senai-roman-desafio-Cassio-Ryan-master\\senai-roman-desafio-Cassio-Ryan\\Senai.M_Roman.WebApi\\Senai.M_Roman.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\46864796817\\Desktop\\senai-roman-desafio-Cassio-Ryan\\Senai.M_Roman.WebApi\\Senai.M_Roman.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

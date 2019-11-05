@@ -5,6 +5,7 @@ import {createBottomTabNavigator} from 'react-navigation-tabs';
 import MainScreen from './pages/main';
 import SignInScreen from './pages/signin';
 
+
 const AuthStack = createStackNavigator ({
   Sign: {
     screen: SignInScreen

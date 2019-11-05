@@ -9,11 +9,13 @@ namespace Senai.M_Roman.WebApi.Repositories
 {
     public class ProjetoRepository
     {
+
+
         public List<Projetos> Listar()
         {
             using (RomanContext ctx = new RomanContext())
             {
-                return ctx.Projetos.Include(x => x.IdTemaNavigation).ToList();
+                return ctx.Projetos.Include(x => x.IdTemaNavigation).Include(x => x.IdUsuarioNavigation).ToList();
             }
         }
         public void Cadastrar(Projetos projeto)
@@ -22,6 +24,13 @@ namespace Senai.M_Roman.WebApi.Repositories
             {
                 ctx.Projetos.Add(projeto);
                 ctx.SaveChanges();
+            }
+        }
+        public List<Projetos> BuscarPorTema(string tema)
+        {
+            using (RomanContext ctx = new RomanContext())
+            {
+                return ctx.Projetos.Include(x => x.IdUsuarioNavigation).Include(x => x.IdTemaNavigation).Where(x => x.IdTemaNavigation.Nome == tema).ToList();
             }
         }
     }

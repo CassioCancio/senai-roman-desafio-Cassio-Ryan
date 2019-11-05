@@ -13,6 +13,7 @@ namespace Senai.M_Roman.WebApi.Controllers
     [Route("api/[controller]")]
     [ApiController]
 
+    
     [Authorize]
     public class ProjetosController : ControllerBase
     {
@@ -22,6 +23,12 @@ namespace Senai.M_Roman.WebApi.Controllers
         public IActionResult Listar()
         {
             return Ok(ProjetoRepository.Listar());
+        }
+
+        [HttpGet("{tema}")]
+        public IActionResult ListarPorTema(string tema)
+        {
+            return Ok(ProjetoRepository.BuscarPorTema(tema));
         }
 
         [HttpPost]
