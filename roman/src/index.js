@@ -16,24 +16,7 @@ const MainNavigator = createBottomTabNavigator(
     Main: {
       screen: MainScreen,
     },
-    Categorias: {
-      screen: CategoriaScreen,
-    },
-  },
-  {
-    initialRouteName: 'Profile',
-    tabBarOptions: {
-      showIcon: true,
-      showLabel: false, 
-      inactiveBackgroundColor: '#B727FF',
-      activeBackgroundColor: '#9900e6',
-      style: {
-        width: '100%',
-        height: 50,
-      },
-    },
-  },
-  );
+  })
 
 export default createAppContainer(createSwitchNavigator(
   {

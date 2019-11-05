@@ -8,8 +8,8 @@ class SignIn extends Component{
     constructor() {
         super();
         this.state = {
-            email: null,
-            senha: null
+            email: 'h@gmail.com',
+            senha: '123'
         }
     }
 
@@ -28,15 +28,15 @@ class SignIn extends Component{
             .then(resposta => resposta.json())
             .then(data => this._irParaHome(data.token))
             .catch(erro => console.warn('ocorreu um erro' + erro))
-    }
-
+        }
+        
     _irParaHome = async (tokenRecebido) => {
         if(tokenRecebido != null) {
             try {
-                await AsyncStorage.setItem('@roman:token', tokenRecebido);
-                this.props.navigation.navigate('MainScreen')
+                await AsyncStorage.setItem('roman-token', tokenRecebido);
+                this.props.navigation.navigate('MainNavigator')
             } catch (error) {
-                
+                console.warn('ocorreu um erro' + erro);
             }
         }
     }
